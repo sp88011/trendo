@@ -15,7 +15,7 @@ Open the editor and specify your request.
 ###################################################
 #  EDIT YOUR REQUEST HERE                         #
 ###################################################
-# for phrases wirte like that: word = "my+phrase"
+# for phrases write like that: word = "my+phrase"
 word = "New+Year" 
 month = 1
 year = 2013
